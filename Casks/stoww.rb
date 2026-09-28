@@ -1,4 +1,4 @@
-cask "stow" do
+cask "stoww" do
   version "1.0.0"
   sha256 "fe4c2465a685211ef5a7040c8ec7d171e5977266e050dfdbf3a6c7b8d9e71c5d"
 
